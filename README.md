@@ -24,7 +24,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bint
+$ git clone https://github.com/internet-help-zone-shihab/bint
 <br/>
 $ pip2 install requests
 <br/>
@@ -45,33 +45,8 @@ $ python2 bint.py
 ....
 <br/>
 
-* Note:- Don't try to edit or modify this tool.
 
-## 馃敆 ***Check this***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
-
-## 馃懃 ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
-
-### My GitHub ID link:
-https://www.github.com/BotolMehedi
-
-### 馃摙 Warning
+### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
